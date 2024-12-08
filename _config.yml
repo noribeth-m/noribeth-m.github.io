@@ -21,7 +21,7 @@ repository               : "noribeth-m/noribeth-m.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Noribeth Mariscal"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Civil Engineering & Urban Sustainability"
