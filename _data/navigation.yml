@@ -9,8 +9,8 @@ main:
     # url: /cv/
     url: /files/CV_Mariscal_Noribeth_c20241207.pdf
     
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
