@@ -6,7 +6,8 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: files/cv/CV_Mariscal_Noribeth_c20241207.pdf
     
   - title: "Publications"
     url: /publications/
