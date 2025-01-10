@@ -46,4 +46,4 @@ I am particularly interested in projects that address **the impacts of troposphe
 I’d love to hear about potential opportunities! Please feel free to reach out at:  
 - **Email:** nmariscal@wayne.edu
 
-You can also view my [**CV**](https://noribeth-m.github.io/files/CV_Mariscal_Noribeth_c20241207.pdf) for more details on my background and accomplishments.
+You can also view my [**CV**](https://noribeth-m.github.io/files/CV_Mariscal_Noribeth.pdf) for more details on my background and accomplishments.
