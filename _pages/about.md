@@ -43,7 +43,7 @@ I am particularly interested in projects that address **the impacts of troposphe
 
 ## Contact
 
-I’d love to hear about potential opportunities for collaborations! Please feel free to reach out to me at:  
+I’d love to hear about potential opportunities for collaborations! Please feel free to reach me at:  
 - **Email:** noribethmariscal@gmail.com
 
 You can also view my [**CV**](https://noribeth-m.github.io/files/CV_Mariscal_Noribeth.pdf) for more details on my background and accomplishments.
