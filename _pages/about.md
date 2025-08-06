@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is **Noribeth Mariscal**, and I am an atmospheric scientist specializing in **air pollution modeling**. I recently earned my PhD in Civil Engineering and Urban Sustainability at Wayne State University in Detroit, Michigan, where I worked with Dr. Yaoxian Huang ([Huang Research Lab](https://www.huanglabwayne.com/)). My work focuses on the development and application of chemical transport models to understand air quality at exposure relevant scales. In August 2025, I will be beginning a postdoctoral position in the Environmental Modelling Group, at the Max Planck Institute for Meteorology in Hamburg, Germany. 
+Hi! My name is **Noribeth Mariscal**, and I am an atmospheric scientist specializing in **air pollution modeling**. I recently earned my PhD in Civil Engineering and Urban Sustainability at Wayne State University in Detroit, Michigan, where I worked with Dr. Yaoxian Huang ([Huang Research Lab](https://www.huanglabwayne.com/)). My work focuses on the development and application of chemical transport models to understand air quality at exposure relevant scales. I am a postdoctoral researcher in the Environmental Modelling Group, working with Guy Brasseur, at the Max Planck Institute for Meteorology in Hamburg, Germany. 
 
 ---
 
@@ -44,6 +44,6 @@ I am particularly interested in projects that address **the impacts of troposphe
 ## Contact
 
 I’d love to hear about potential opportunities for collaborations! Please feel free to reach me at:  
-- **Email:** noribethmariscal@gmail.com
+- **Email:** noribeth.mariscal@mpimet.mpg.de
 
 You can also view my [**CV**](https://noribeth-m.github.io/files/CV_Mariscal_Noribeth.pdf) for more details on my background and accomplishments.
